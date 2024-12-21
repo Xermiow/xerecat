@@ -1,7 +1,9 @@
+![Screenshot_21](https://github.com/user-attachments/assets/e947457a-7b81-492c-8c2f-b052bf12886a)
+
 Xeremiow: Your Feline AI Agent Framework
 Xeremiow is an innovative, open-source Python framework designed to let you deploy your own cat-themed AI agents on various platforms, powered by state-of-the-art AI models like those from OpenAI or Anthropic.
 
-CatPy is developed from a specialized version of the Zerebro backend, now tailored for feline enthusiasts. With CatPy, you can create your own AI cat with functionalities similar to a sentient pet but with the intelligence and capabilities of modern AI.
+Xeremiow is developed from a specialized version of the Zerebro backend, now tailored for feline enthusiasts. With CatPy, you can create your own AI cat with functionalities similar to a sentient pet but with the intelligence and capabilities of modern AI.
 
 Features
 
